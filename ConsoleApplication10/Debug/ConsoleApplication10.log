@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\y.ageychik\documents\visual studio 2015\projects\consoleapplication10\consoleapplication10\consoleapplication10.cpp(62): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication10.vcxproj -> C:\Users\y.ageychik\Documents\Visual Studio 2015\Projects\ConsoleApplication10\Debug\ConsoleApplication10.exe
+  ConsoleApplication10.vcxproj -> C:\Users\y.ageychik\Documents\Visual Studio 2015\Projects\ConsoleApplication10\Debug\ConsoleApplication10.pdb (Full PDB)
